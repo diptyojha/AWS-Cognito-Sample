@@ -3,7 +3,7 @@
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 8.3.22.
 To understand more below are the links :-
 1.https://www.youtube.com/watch?v=N-RpYY5o8bI&list=PLvmxnsCyoh64kn_H-7OJGubNMQhJzOmbh&index=6
-2.https://aws-amplify.github.io/docs/js/angular
+2.https://aws-amplify.github.io/docs/js/angular     
 3.https://getbootstrap.com/docs/4.4/components/navbar/
 4.https://angular.io/cli
 
